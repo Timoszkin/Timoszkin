@@ -2,4 +2,4 @@
 - 👀 I’m interested in: gaining experience as a junior front-end dev 
 - 🌱 I’m currently learning: React, TypeScript
 - 📫 How to reach me: tymofii.fesenko1999@gmail.com
-
+- best work in my portfolio: https://timoszkin.github.io/layout_miami/
