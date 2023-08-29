@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Timoszkin
-- 👀 I’m interested in: gaining experience as a junior front-end dev 
-- 🌱 I’m currently learning: React.js
-- 📫 How to reach me: tymofii.fesenko1999@gmail.com
-- best work in my portfolio: https://timoszkin.github.io/layout_miami/
+- 👨‍💻 2+ Years of JavaScript experience
+- React, AngularJS, PaaS, relational databases
+- 📫 Contact: tymofii.fesenko1999@gmail.com
+- Portfolio ⬇️
+- Real estate Landing Page: https://timoszkin.github.io/layout_miami/]
+- Movie browsing page: http://s33317jw.beget.tech/
